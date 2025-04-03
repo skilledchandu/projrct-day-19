@@ -1,6 +1,6 @@
 n = int(input("n="))
 
-if n%20 == 0:
+if n%2 == 0:
     print("even")
 else:
     print("odd")
